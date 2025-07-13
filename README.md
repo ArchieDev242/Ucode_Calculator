@@ -29,7 +29,7 @@
 
 > ⚠️ **УВАГА:**
 >
-> Цей репозиторій містить нашу реалізацію веб-калькулятора, розроблену командою з 2 осіб в рамках Race00 проекту Ucode Marathon 2024-2025.  
+> Цей репозиторій містить нашу реалізацію веб-калькулятора, розроблену командою з 2 осіб в рамках Race00 проекту Ucode Marathon 2025.  
 > Калькулятор створений на чистому JavaScript ES2015+ з використанням HTML5 та CSS3 для інтерфейсу.
 >
 > **Повнофункціональний калькулятор** — виконує всі основні математичні операції!
@@ -293,7 +293,7 @@ Ucode_Calculator/
 
 > ⚠️ **WARNING:**
 >
-> This repository contains our implementation of a web calculator, developed by a team of 2 people as part of the Race00 project for Ucode Marathon 2024-2025.  
+> This repository contains our implementation of a web calculator, developed by a team of 2 people as part of the Race00 project for Ucode Marathon 2025.  
 > The calculator is built with pure JavaScript ES2015+ using HTML5 and CSS3 for the interface.
 >
 > **Full-featured calculator** — performs all basic mathematical operations!
@@ -525,7 +525,7 @@ During calculator creation, knowledge was applied from:
 
 > ⚠️ **ACHTUNG:**
 >
-> Dieses Repository enthält unsere Implementierung eines Web-Rechners, entwickelt von einem 2-köpfigen Team im Rahmen des Race00-Projekts für Ucode Marathon 2024-2025.  
+> Dieses Repository enthält unsere Implementierung eines Web-Rechners, entwickelt von einem 2-köpfigen Team im Rahmen des Race00-Projekts für Ucode Marathon 2025.  
 > Der Rechner ist mit reinem JavaScript ES2015+ unter Verwendung von HTML5 und CSS3 für die Benutzeroberfläche erstellt.
 >
 > **Vollwertiger Rechner** — führt alle grundlegenden mathematischen Operationen aus!
