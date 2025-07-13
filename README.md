@@ -105,7 +105,7 @@
 - **Інтернет**: Не потрібен (працює офлайн)
 
 #### 🌐 GitHub Pages
-Калькулятор доступний онлайн за посиланням: [Ucode Calculator](https://archie242.github.io/Ucode_Calculator/)
+Калькулятор доступний онлайн за посиланням: [Ucode Calculator](https://archiedev242.github.io/Ucode_Calculator/)
 
 ---
 
@@ -187,7 +187,7 @@ Ucode_Calculator/
     <tr>
       <td align = "center"><strong>Team Lead & Co-Developer</strong></td>
       <td align = "center">Максим Копичко</td>
-      <td align = "center"><a href = "https://github.com/Archie242">Archie242</a></td>
+      <td align = "center"><a href = "https://github.com/ArchieDev242">Archie242</a></td>
       <td align = "center">Керівництво проектом, програмування логіки, допомога в розробці</td>
     </tr>
   </table>
@@ -354,7 +354,7 @@ Ucode_Calculator/
 - **Internet**: Not required (works offline)
 
 #### 🌐 GitHub Pages
-Calculator is available online at: [Ucode Calculator](https://archie242.github.io/Ucode_Calculator/)
+Calculator is available online at: [Ucode Calculator](https://archiedev242.github.io/Ucode_Calculator/)
 
 ---
 
@@ -419,7 +419,7 @@ Ucode_Calculator/
     <tr>
       <td align = "center"><strong>Team Lead & Co-Developer</strong></td>
       <td align = "center">Maksym Kopychko</td>
-      <td align = "center"><a href = "https://github.com/Archie242">Archie242</a></td>
+      <td align = "center"><a href = "https://github.com/ArchieDev242">Archie242</a></td>
       <td align = "center">Project management, logic programming, development assistance</td>
     </tr>
   </table>
@@ -586,7 +586,7 @@ During calculator creation, knowledge was applied from:
 - **Internet**: Nicht erforderlich (funktioniert offline)
 
 #### 🌐 GitHub Pages
-Rechner ist online verfügbar unter: [Ucode Calculator](https://archie242.github.io/Ucode_Calculator/)
+Rechner ist online verfügbar unter: [Ucode Calculator](https://archiedev242.github.io/Ucode_Calculator/)
 
 ---
 
@@ -651,7 +651,7 @@ Ucode_Calculator/
     <tr>
       <td align = "center"><strong>Teamleiter & Co-Entwickler</strong></td>
       <td align = "center">Maksym Kopychko</td>
-      <td align = "center"><a href = "https://github.com/Archie242">Archie242</a></td>
+      <td align = "center"><a href = "https://github.com/ArchieDev242">Archie242</a></td>
       <td align = "center">Projektmanagement, Logik-Programmierung, Entwicklungsunterstützung</td>
     </tr>
   </table>
