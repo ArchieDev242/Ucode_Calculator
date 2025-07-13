@@ -1,7 +1,7 @@
 # <h1 align = "center">Race00 - Ucode Calculator</h1>
 
 <p align = "center">
-  <a href = "https://ucode.world/">
+  <a href = "https://campus.kpi.kharkov.ua/ua/">
     <img src = "https://i.imghippo.com/files/zjSc9678aE.png" alt = "Ucode" width = "300" height = "300">
   </a>
   <br>
