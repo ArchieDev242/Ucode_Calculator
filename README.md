@@ -5,7 +5,7 @@
     <img src = "https://i.imghippo.com/files/zjSc9678aE.png" alt = "Ucode" width = "300" height = "300">
   </a>
   <br>
-  <h2 align = "center"><strong>Ucode Marathon | Race00 Project | 2025</strong></h2>
+  <h2 align = "center"><strong>Ucode Marathon | Calculator Project | 2025</strong></h2>
 </p>
 
 ### 🧮 Попередній перегляд калькулятора
