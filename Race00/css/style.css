@@ -1,0 +1,242 @@
+body {
+    background-color: #374545;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-size: 30px;
+}
+
+p {
+    white-space: pre-line;
+}
+
+.output {
+    height: 113px;
+    overflow-y: auto;
+}
+
+.calculator {
+    max-width: 350px;
+    border: 5px solid #606363;
+    border-radius: 25px;
+    padding: 7px;
+    background-color: #323a3a;
+    box-shadow: 0 0 60px #090707;
+}
+
+.calculator-display {
+    text-shadow: #534f4f 0 0 10px;
+}
+
+.calculator-display p {
+    margin: 5px;
+    color: rgba(22, 25, 25, 0.9);
+}
+
+#history {
+    visibility: hidden;
+    text-align: right;
+    font-weight: normal;
+    color: #788778;
+    font-size: 30px;
+    margin-right: 7px;
+    text-shadow: #5a5555 0 0 10px;
+}
+
+.memory-buttons {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 5px 5px 5px;
+    gap: 5px;
+    padding: 5px;
+    background-color: #273333;
+    border-radius: 13px 13px 0 0;
+    box-shadow: 0 0 7px #8c8e8e;
+}
+
+.memory-btn {
+    background-color: #a6a8a8;
+    color: #000000;
+    border: 3px solid #5c5e5e;
+    border-radius: 8px;
+    padding: 12px 0;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    box-shadow: 2px 2px 3px #151414;
+    text-shadow: #6c6c64 0 0 3px;
+    width: calc(25% - 6px);
+    height: 22px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.memory-btn:hover {
+    background-color: #7e8585;
+}
+
+.memory-btn:active {
+    background-color: #626c6c;
+    box-shadow: 1px 1px 3px #151414;
+}
+
+.buttons-panel {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 6px;
+    padding: 8px;
+    margin: 0 5px 5px 5px;
+    border-radius: 0 0 13px 13px;
+    background-color: #273333;
+    box-shadow: 0 0 7px #8c8e8e;
+}
+
+.buttons {
+    padding: 0 5px 5px 5px;
+    font-size: 40px;
+    background-color: #d3d3be;
+    border: 4px solid #8a8a79;
+    border-radius: 12px;
+    box-shadow: 4px 4px 5px #151414;
+    transition: background-color 0.1s;
+    text-shadow: #6c6c64 0 0 5px;
+    max-width: 57px;
+}
+
+.side-panel {
+    font-size: 27px;
+    background-color: #515a61;
+    border-color: #28282c;
+}
+
+.side-panel:hover {
+    background-color: #3a464c !important;
+}
+
+.side-panel:active {
+    background-color: #2b383e !important;
+}
+
+.buttons:hover {
+    background-color: #a5a599;
+}
+
+.buttons:active {
+    background-color: #6c6c64;
+    box-shadow: 1px 1px 5px #151414;
+}
+
+.modifiers {
+    background-color: #838080;
+    border: 4px solid #51514c;
+}
+
+.modifiers:hover {
+    background-color: #605e5e;
+}
+
+.modifiers:active {
+    background-color: #474646;
+}
+
+.operations {
+    background-color: #c8b19b;
+    border: 4px solid #958065;
+}
+
+.operations:hover {
+    background-color: #a8917b;
+}
+
+.operations:active {
+    background-color: #887563;
+}
+
+#result {
+    text-align: right;
+    font-size: 60px;
+    font-weight: normal;
+    margin: 5px 5px 0 0;
+}
+
+#equal {
+    background-color: #ec8532;
+    border: 4px solid #b16123;
+}
+
+#equal:hover {
+    background-color: #cc7d3c;
+}
+
+#equal:active {
+    background-color: #ae6a33;
+}
+
+#delete {
+    background-color: #c64f2a;
+    border: 4px solid #9e3315;
+}
+
+#delete:hover {
+    background-color: #ac4525;
+}
+
+#delete:active {
+    background-color: #87361d;
+}
+
+.array-of-buttons {
+
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin: 10px 10px;
+}
+
+.array-of-buttons div {
+    width: 18px;
+    height: 18px;
+    border-radius: 10px;
+}
+
+.red-button {
+    background-color: #f45d55;
+}
+
+.yellow-button {
+    background-color: #ff8600;
+}
+
+.green-button {
+    background-color: #00a200;
+}
+
+.red-button:hover {
+    background-color: #f48079;
+}
+
+.yellow-button:hover {
+    background-color: #ffa94e;
+}
+
+.green-button:hover {
+    background-color: #65b665;
+}
+
+.red-button:active {
+    background-color: #f39f9a;
+}
+
+.yellow-button:active {
+    background-color: #fdc380;
+}
+
+.green-button:active {
+    background-color: #80ca80;
+}
